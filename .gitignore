@@ -1,0 +1,11 @@
+node_modules
+dist
+*.local
+*.tsbuildinfo
+.DS_Store
+
+# Secrets and local settings (the example file is safe to share)
+.env*
+!.env.example
+
+.vercel
